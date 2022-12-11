@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/main.dbe27caf.chunk.js",
+    "main.js.map": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/main.dbe27caf.chunk.js.map",
+    "runtime-main.js": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/runtime-main.87ac2372.js",
+    "runtime-main.js.map": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/runtime-main.87ac2372.js.map",
+    "static/js/2.bc209b51.chunk.js": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/2.bc209b51.chunk.js",
+    "static/js/2.bc209b51.chunk.js.map": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/2.bc209b51.chunk.js.map",
+    "index.html": "https://sd-iitkgp.github.io/csb-qi2j0p/index.html",
+    "static/js/2.bc209b51.chunk.js.LICENSE.txt": "https://sd-iitkgp.github.io/csb-qi2j0p/static/js/2.bc209b51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ac2372.js",
+    "static/js/2.bc209b51.chunk.js",
+    "static/js/main.dbe27caf.chunk.js"
+  ]
+}
